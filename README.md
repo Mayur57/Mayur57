@@ -6,8 +6,8 @@ My projects are primarily mobile apps for Android and iOS but also include a wid
 
 - **Currently learning**: Operating Systems
 
-- Some programming languages I can write code in (that works):
-`Java, Dart, C/C++, Python, JS/TS, Rust, and Go`
+- Some programming languages I can write code in (that works :P):
+`Java, Dart, C/C++, Python, JS/TS, Bash, Rust, and Go`
 
 You can contact me via the links in my bio or visit my website [here](https://mayurbhoi.com).
 
