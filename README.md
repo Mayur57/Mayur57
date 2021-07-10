@@ -8,7 +8,7 @@ My projects are primarily mobile apps for Android-iOS and consist of a wide vari
 
 `Java, Dart, C/C++, Python, JS/TS, Bash, Rust, and Go` are some programming languages I can write code in that compiles. (In decreasing order of proficiency and code quality :P)
 - **Currently learning**: Operating Systems
-- **Currently Practicing**: Competitive Programming
+- **Currently practicing**: Competitive Programming
 
 You can contact me via the links in my bio or visit my website [here](https://mayurbhoi.com).
 <h3 align="center"><b>🎉 make good things.</b></h3>
