@@ -1,5 +1,5 @@
-## 👋🏼 Hello
+## hello
 
-I am **Mayur Bhoi** (he/him/his). I am a full-stack developer. I have a passion for writing intricately designed software that is efficient and easy to use. Automating the boring stuff using custom scripts.
+i am **mayur bhoi** (he/him/his). doing what i love as a full-stack developer.
 
-For more, visit my website [here](https://mayurbhoi.com).
+see my work below and read my blog [here](https://mayurbhoi.com).
